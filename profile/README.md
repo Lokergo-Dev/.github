@@ -18,8 +18,7 @@ Job vacancy platform that integrates multiple platforms into a single compact an
 </p>
 
 ## Our Teams
-Our team consists of two learning paths, namely machine learning and cloud computing, each with specific responsibilities. {insert tugas yang dikerjain ML & CC secara umum}
-
+Our team consists of two learning paths, namely machine learning and cloud computing, each with specific responsibilities. The Machine Learning team primarily handles data scraping, develops a recommendation engine, and assists in deploying the ML API, while the Cloud Computing team is responsible for creating the platform's frontend and backend, as well as handling API and deployment on the Google Cloud Platform.
 ### Cloud Computing
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
@@ -45,4 +44,4 @@ Our team consists of two learning paths, namely machine learning and cloud compu
   
 </details>
 
-<p align="right"> Keep Bangkit Spirits Up! <br> C23-VR01 Teams. </p>
+<p align="right"> Lets keep the enthusiasm! <br> C23-VR01 Teams. </p>
