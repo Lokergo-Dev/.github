@@ -1,4 +1,4 @@
-<p align="center"><img src='https://drive.google.com/uc?id=1d9LedlUpPOGkJyANQZ3EMbP9J0DyTFkX'></p>
+<p align="center"><img src='https://drive.google.com/uc?id=1d9LedlUpPOGkJyANQZ3EMbP9J0DyTFkX' width="500px"></p>
 <h1 align="center"> C23-VR01 - Braincore x Kerjago </h1>
 
 Greetings! We are a team of six people from all over Indonesia who are participating in the Bangkit Academy program. This marks our final project, developed in collaboration with Braincore and Kerjago.
