@@ -1,7 +1,7 @@
 <p align="center"><img src='https://drive.google.com/uc?id=1d9LedlUpPOGkJyANQZ3EMbP9J0DyTFkX' width="500px"></p>
 <h1 align="center"> C23-VR01 - Braincore x Kerjago </h1>
 
-Greetings! We are a team of six people from all over Indonesia who are participating in the Bangkit Academy program. This marks our final project, developed in collaboration with Braincore and Kerjago.
+<p align="justify">Greetings! We are a team of six people from all over Indonesia who are participating in the Bangkit Academy program. This marks our final project, developed in collaboration with Braincore and Kerjago.</p>
 
 <details>
    <summary align="center">More Information</summary>
@@ -9,7 +9,7 @@ Greetings! We are a team of six people from all over Indonesia who are participa
 <h2 align="center">Lokergo!</h2>
 <p align="center">some image</p>
 
-Job vacancy platform that integrates multiple platforms into a single compact and streamlined experience, enhanced with a recommendation feature, because we understand the difficulties people face when searching for job vacancies on various websites. This integration aims to increase efficiency and, as a result, accelerate the reduction of unemployment.
+<p align="justify">Job vacancy platform that integrates multiple platforms into a single compact and streamlined experience, enhanced with a recommendation feature, because we understand the difficulties people face when searching for job vacancies on various websites. This integration aims to increase efficiency and, as a result, accelerate the reduction of unemployment.</p>
 
 <p align="center">
    Try Now!
@@ -18,7 +18,8 @@ Job vacancy platform that integrates multiple platforms into a single compact an
 </p>
 
 ## Our Teams
-Our team consists of two learning paths, namely machine learning and cloud computing, each with specific responsibilities. The Machine Learning team primarily handles data scraping, develops a recommendation engine, and assists in deploying the ML API, while the Cloud Computing team is responsible for creating the platform's frontend and backend, as well as handling API and deployment on the Google Cloud Platform.
+<p align="justify">Our team consists of two learning paths, namely machine learning and cloud computing, each with specific responsibilities. The Machine Learning team primarily handles data scraping, develops a recommendation engine, and assists in deploying the ML API, while the Cloud Computing team is responsible for creating the platform's frontend and backend, as well as handling API and deployment on the Google Cloud Platform.</p>
+
 ### Cloud Computing
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
