@@ -39,10 +39,9 @@
 ### Cloud Computing
 
 ### Machine Learning
-
-### Mobile Development
-
-  
+1. [Web Scraping](https://github.com/Lokergo-Dev/web-scraping)
+2. [Model Trainer (Transfer Learning)](https://github.com/Lokergo-Dev/model-trainer)
+3. [Machine Learning API](https://github.com/Lokergo-Dev/ml-api) 
 </details>
 
 <p align="right"> Lets keep the enthusiasm! <br> C23-VR01 Teams. </p>
