@@ -41,7 +41,10 @@
 ### Machine Learning
 1. [Web Scraping](https://github.com/Lokergo-Dev/web-scraping)
 2. [Model Trainer (Transfer Learning)](https://github.com/Lokergo-Dev/model-trainer)
-3. [Machine Learning API](https://github.com/Lokergo-Dev/ml-api) 
+3. [Machine Learning API](https://github.com/Lokergo-Dev/ml-api)
+
+### Others
+1. [UI UX](https://www.figma.com/file/71UxwBYpDRPGZFlU9vddB4/lokergo)
 </details>
 
 <p align="right"> Lets keep the enthusiasm! <br> C23-VR01 Teams. </p>
